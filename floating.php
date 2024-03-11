@@ -1,5 +1,5 @@
 <?php
-header('Access-Control-Allow-Origin: https://greylabelfx.com');
+header('Access-Control-Allow-Origin: https://greylabel-fx.com/');
 if(isset($_POST['submit'])) {
  
     $email_to = "sales@greylabel-fx.com";
@@ -53,7 +53,7 @@ if(isset($_POST['submit'])) {
     
       
     
-$headers = 'From: noreply@greylabelfx.com'."\r\n";
+$headers = 'From: noreply@greylabel-fx.com'."\r\n";
 'Reply-To: '.$email_from."\r\n" .
 'X-Mailer: PHP/' . phpversion();
 

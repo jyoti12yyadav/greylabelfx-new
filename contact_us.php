@@ -1,5 +1,5 @@
 <?php
-header('Access-Control-Allow-Origin: https://greylabelfx.com');
+header('Access-Control-Allow-Origin: https://greylabel-fx.com/');
 if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED

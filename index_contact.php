@@ -1,10 +1,10 @@
 <?php
-header('Access-Control-Allow-Origin: https://greylabelfx.com');
+header('Access-Control-Allow-Origin: https://greylabel-fx.com/');
 if(isset($_POST['submit'])) {
  
     $email_to = "sales@greylabel-fx.com";
     
-    $email_subject = "Contact Us Form (greylabelfx.com)";
+    $email_subject = "Contact Us Form (greylabel-fx.com)";
  
     function died($error) {
         echo "We are very sorry, but there were error(s) found with the form you submitted. ";
@@ -60,7 +60,7 @@ if(isset($_POST['submit'])) {
     
       
     
-$headers = 'From: noreply@greylabelfx.com'."\r\n";
+$headers = 'From: noreply@greylabel-fx.com'."\r\n";
 'Reply-To: '.$email_from."\r\n" .
 'X-Mailer: PHP/' . phpversion();
 
