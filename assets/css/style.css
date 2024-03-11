@@ -16485,8 +16485,18 @@ color: black;
     }
 }
 
-
-
+svg:not(:root) {
+    overflow: hidden;
+    height: 35px;
+    width: 35px;
+}
+.submenu>li>a>span{
+    color: red; 
+    font-size:16px; 
+    font-weight: 600;}
+.submenu>li:hover>a>span{
+color: white !important;
+}
 
 
 
