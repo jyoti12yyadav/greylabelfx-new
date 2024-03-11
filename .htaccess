@@ -1,3 +1,3 @@
 RewriteEngine On
 RewriteCond %{HTTP_HOST} ^fxbrokerservice\.com$ [NC]
-RewriteRule ^(.*)$ http://greylabel-fx.com/$1 [R=301,L]
+RewriteRule ^(.*)$ http://greylab-fx.com/$1 [R=301,L]

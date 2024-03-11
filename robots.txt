@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://greylabel-fx.com//sitemap.xml
+Sitemap: https://greylabel-fx.com/sitemap.xml

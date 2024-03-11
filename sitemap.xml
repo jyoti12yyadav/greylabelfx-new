@@ -1,94 +1,83 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+﻿<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 <url>
-	<loc>https://greylabel-fx.com//</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>1.0</priority>
+<loc>https://greylabel-fx.com/index.html</loc>
+<lastmod>2024-03-11T13:21:55+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//index.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.95</priority>
+<loc>https://greylabel-fx.com/about.html</loc>
+<lastmod>2024-03-11T13:21:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//about.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.95</priority>
+<loc>https://greylabel-fx.com/our-servers.html</loc>
+<lastmod>2024-03-11T13:21:55+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//our-servers.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.90</priority>
+<loc>https://greylabel-fx.com/team.html</loc>
+<lastmod>2024-03-11T13:21:56+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//team.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.90</priority>
+<loc>https://greylabel-fx.com/MT5-greylabel.html</loc>
+<lastmod>2024-03-11T13:21:55+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//MT4-greylabel.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.90</priority>
+<loc>https://greylabel-fx.com/broker-crm.html</loc>
+<lastmod>2024-03-11T13:21:57+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//MT5-greylabel.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.90</priority>
+<loc>https://greylabel-fx.com/psp.html</loc>
+<lastmod>2024-03-11T13:21:56+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//broker-crm.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.90</priority>
+<loc>https://greylabel-fx.com/mt5-greylabel-pricing.html</loc>
+<lastmod>2024-03-11T13:21:55+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//psp.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.90</priority>
+<loc>https://greylabel-fx.com/broker-website.html</loc>
+<lastmod>2024-03-11T13:21:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//standard.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.90</priority>
+<loc>https://greylabel-fx.com/forex-seo.html</loc>
+<lastmod>2024-03-11T13:21:55+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//advanced.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.90</priority>
+<loc>https://greylabel-fx.com/branding.html</loc>
+<lastmod>2024-03-11T13:21:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//broker-website.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.90</priority>
+<loc>https://greylabel-fx.com/service.html</loc>
+<lastmod>2024-03-11T13:21:56+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//forex-seo.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.90</priority>
+<loc>https://greylabel-fx.com/contact.html</loc>
+<lastmod>2024-03-11T13:21:54+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//branding.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.90</priority>
+<loc>https://greylabel-fx.com/privacy-policy.html</loc>
+<lastmod>2024-03-11T13:21:56+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//service.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.95</priority>
+<loc>https://greylabel-fx.com/term-and-condition.html</loc>
+<lastmod>2024-03-11T13:21:56+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-	<loc>https://greylabel-fx.com//contact.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.95</priority>
-</url>
-<url>
-	<loc>https://greylabel-fx.com//privacy-policy.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.95</priority>
-</url>
-<url>
-	<loc>https://greylabel-fx.com//term-and-condition.html</loc>
-	<lastmod>2022-06-11T07:47:35+01:00</lastmod>
-	<priority>0.95</priority>
+<loc>https://greylabel-fx.com/</loc>
+<lastmod>2024-03-11T13:21:55+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 </urlset>
