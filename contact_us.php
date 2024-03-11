@@ -3,7 +3,7 @@ header('Access-Control-Allow-Origin: https://greylabelfx.com');
 if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "rama.prixim@gmail.com";
+    $email_to = "sales@greylabel-fx.com";
     $email_subject = "GreyLabel contact form";
  
     function died($error) {
