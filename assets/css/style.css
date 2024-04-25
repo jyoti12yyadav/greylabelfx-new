@@ -12053,6 +12053,7 @@ Timeline Area
 
 .rn-pricing .pricing-table-inner .pricing-header .title {
     margin-bottom: 20px;
+    font-size: 20px;
 }
 
 .rn-pricing .pricing-table-inner .pricing-header .price-wrapper {
@@ -12110,7 +12111,7 @@ Timeline Area
 }
 
 .rn-pricing.style-2 .pricing-table-inner {
-    background-color: var(--color-blackest);
+    background-color: #1f2937;
     border-color: transparent !important;
 }
 
