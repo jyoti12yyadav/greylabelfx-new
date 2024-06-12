@@ -339,6 +339,7 @@ img {
     -ms-interpolation-mode: bicubic;
     border: 0;
     vertical-align: middle;
+    
     max-width: 100%;
     height: auto;
 }
@@ -347,7 +348,7 @@ img1 {
     -ms-interpolation-mode: bicubic;
     border: 0;
     vertical-align: middle;
-    max-width: 80%;
+    max-width: 0%;
     height: 400px;
     margin-left: 120px;
 }
@@ -1072,6 +1073,7 @@ All Extend Here
 .rwt-card .inner .thumbnail .card-image a,
 .radius-small {
     border-radius: var(--radius-small);
+    max-width : 80%;
 }
 
 .radius,
@@ -12260,7 +12262,8 @@ Timeline Area
 
 .rn-splite-style .thumbnail img {
     border-radius: 0;
-    width: 100%;
+    width: 60%;
+    margin-left: 150px;
 }
 
 .rn-splite-style .thumbnail.image-left-content img {
