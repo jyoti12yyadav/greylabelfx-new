@@ -74,7 +74,7 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
     }
     else { ?>
         <script language="javascript" type="text/javascript">
-            alert('Message failed. Please, send an email to support@finovace.com');
+            alert('Message failed. Please, send an email to support@greylabel-fx.com');
             window.location = history.back();;
         </script>
     <?php
