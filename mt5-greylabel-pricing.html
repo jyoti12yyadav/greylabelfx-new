@@ -50,10 +50,35 @@
     .rn-pricing .pricing-table-inner .pricing-header{
         border-bottom: 1px solid rgb(137 0 0) !important;
     }
+
+    svg:not(:root) {
+    overflow: hidden;
+    height: 25px;
+    width: 25px;
+    }
+
+    .ribbon{
+        background-color: #e9e4e4;
+    padding: 2px 20px;
+    border-radius: 17px;
+    width: max-content;
+    color: #000;
+    margin-bottom: 12px;
+    }
+
+    .ribbon p {
+    margin-bottom: 0px;
+    color: #000;
+}
+
+.pricing-table-inner-ribbon{
+display: flex;
+justify-content: center;
+}
 </style>
 <body class="active-dark-mode">
     <main class="page-wrapper">
-        <div class="header-top-bar">
+        <div class="header-top-bar ">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-md-12 col-12">
@@ -115,7 +140,7 @@
 
 
         <header class="rn-header header-default header-not-transparent header-sticky">
-            <div class="container position-relative">
+            <div class="container position-relative ">
                 <div class="row align-items-center row--0">
                     <div class="col-lg-3 col-md-6 col-4">
                         <div class="logo">
@@ -294,7 +319,7 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
 
-                            <p class="title display-one">MT5 Greylabel</p>
+                            <h1 class="title display-one">MT5 Greylabel</h1>
                         </div>
                     </div>
                 </div>
@@ -355,9 +380,23 @@
                         <div class="row row--0">
                             <div class="col-lg-6 col-md-6 col-12">
                                 <div class="rn-pricing style-2">
-                                    <div class="pricing-table-inner">
+                                    
+                                    <div class="pricing-table-inner mx-2">
+                                        
                                         <div class="pricing-header">
-                                            <h5 class="title">MT5-Generic</h5>
+                                            <div class="pricing-table-inner-ribbon">
+                                                <div class="ribbon">
+                                                    <p>Suited for Startups - Low Cost</p>
+                                                </div>
+                                            </div>
+                                           
+                                            <h2 class="title">MT5-Generic</h2>
+                                            <!-- <div class="pricing">
+                                                <div class="price-wrapper">
+                                                    <span class="currency">$500</span></div>
+                                                        <h4>Setup Fee</h4>
+
+                                            </div> -->
                                             <div class="pricing">
                                                 <div class="price-wrapper"><span class="currency"
                                                         >$750</span></div>
@@ -383,6 +422,9 @@
                                        <br>
                                        
                                         <ol class="prices-list" style="padding: 0px 20px;">
+                                            <h3 class="card-title">Symbols</h3>
+                                            <h6 class="text-center">Forex, Oil, Commodity, Indices, Stocks, Crypto</h6>
+                                            <br>
                                             <h4 class="card-title">Free Offering - Exclusive for our Clients</h4>
                                             <br>
                                             <li><span>Professional Broker Website</span><i class="feather-check"></i> </li>
@@ -407,9 +449,19 @@
 
                             <div class="col-lg-6 col-md-6 col-12">
                                 <div class="rn-pricing style-2">
-                                    <div class="pricing-table-inner">
+                                    <div class="pricing-table-inner mx-2">
                                         <div class="pricing-header">
-                                            <h5 class="title">MT5-Branded</h5>
+                                            <div class="pricing-table-inner-ribbon">
+                                                <div class="ribbon">
+                                                    <p>Best & Effective</p>
+                                                </div>
+                                            </div>
+                                            <h2 class="title">MT5-Branded</h2>
+                                            <!-- <div class="pricing">
+                                                <div class="price-wrapper"><span class="currency"
+                                                        >$1000</span></div>
+                                                        <h4>Setup Fee</h4>
+                                            </div> -->
                                             <div class="pricing">
                                                 <div class="price-wrapper"><span class="currency"
                                                         >$2750</span></div>
@@ -422,6 +474,7 @@
                                     <br></div>
                                         <ol class="prices-list" style="padding: 0px 20px;">
                                             <li>Groups        <span>8</span>  </li>
+
                                             <li>Managers     <span>4</span> </li>
                                             <li>Clients     <span>250</span></li>
                                             
@@ -433,8 +486,12 @@
                                         <br>
                                        <br>
                                         <ol class="prices-list" style="padding: 0px 20px;">
-                                            <h4 class="card-title">Free Offering - Exclusive for our Clients</h4>
+                                            <h3 class="card-title">Symbols</h3>
+                                            <h6 class="text-center">Forex, Oil, Commodity, Indices, Stocks, Crypto</h6>
                                             <br>
+                                            <h4 class="card-title">Free Offering - Exclusive for our Clients</h4>
+                                         <br>
+
                                             <li><span>Professional Broker Website</span><i class="feather-check"></i> </li>
                                             <li><span>1 Year Hosting</span><i class="feather-check"></i> </li>
                                             <li><span>Free Domain</span><i class="feather-check"></i> </li>
